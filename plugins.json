@@ -60,20 +60,5 @@
             "source": "https:\/\/github.com\/ProjectCLI\/plugin-magerun.git",
             "updated_at": "2020-06-17T11:36:23+00:00"
         }
-    ],
-    "links": {
-        "first": "https:\/\/cli.lazu.io\/api\/v1\/plugins?page=1",
-        "last": "https:\/\/cli.lazu.io\/api\/v1\/plugins?page=1",
-        "prev": null,
-        "next": null
-    },
-    "meta": {
-        "current_page": 1,
-        "from": 1,
-        "last_page": 1,
-        "path": "https:\/\/cli.lazu.io\/api\/v1\/plugins",
-        "per_page": 15,
-        "to": 5,
-        "total": 5
-    }
+    ]
 }
