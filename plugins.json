@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "id": "dfhgjh23g23h4g21",
+            "name": "projectcli\/laravel",
+            "title": "Laravel specific commands",
+            "version": "v1.1.1",
+            "short_description": null,
+            "repository": "https:\/\/github.com\/ProjectCLI\/plugin-laravel",
+            "url": null,
+            "url_api": null,
+            "source": "https:\/\/github.com\/ProjectCLI\/plugin-laravel.git",
+            "updated_at": "2020-09-23T09:50:05+00:00"
+        },
+        {
+            "id": "hsxng3agtnfbwxiz",
+            "name": "projectcli\/magento",
+            "title": "Easy access to Magento specific commands",
+            "version": "v1.0.1",
+            "short_description": null,
+            "repository": "https:\/\/github.com\/ProjectCLI\/plugin-magento",
+            "url": null,
+            "url_api": null,
+            "source": "https:\/\/github.com\/ProjectCLI\/plugin-magento.git",
+            "updated_at": "2020-04-30T08:13:06+00:00"
+        },
+        {
+            "id": "iqYW4mhOuEbSEkYr",
+            "name": "projectcli\/django",
+            "title": "Easy accessible commands for your Django project",
+            "version": "v1.0.4",
+            "short_description": null,
+            "repository": "https:\/\/github.com\/ProjectCLI\/plugin-django",
+            "url": null,
+            "url_api": null,
+            "source": "https:\/\/github.com\/ProjectCLI\/plugin-django.git",
+            "updated_at": "2020-08-10T08:18:39+00:00"
+        },
+        {
+            "id": "ah5b3n4af8zrx517",
+            "name": "projectcli\/ngrok",
+            "title": "Expose your projects to the internet",
+            "version": "v1.0.1",
+            "short_description": "Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall",
+            "repository": "https:\/\/github.com\/ProjectCLI\/plugin-ngrok",
+            "url": null,
+            "url_api": null,
+            "source": "https:\/\/github.com\/ProjectCLI\/plugin-ngrok.git",
+            "updated_at": "2020-08-10T08:55:17+00:00"
+        },
+        {
+            "id": "in3ndz63b2hd732p",
+            "name": "projectcli\/magerun",
+            "title": "Tools for managing Magento projects and installations",
+            "version": "v1.0.0",
+            "short_description": null,
+            "repository": "https:\/\/github.com\/ProjectCLI\/plugin-magerun",
+            "url": null,
+            "url_api": null,
+            "source": "https:\/\/github.com\/ProjectCLI\/plugin-magerun.git",
+            "updated_at": "2020-06-17T11:36:23+00:00"
+        }
+    ],
+    "links": {
+        "first": "https:\/\/cli.lazu.io\/api\/v1\/plugins?page=1",
+        "last": "https:\/\/cli.lazu.io\/api\/v1\/plugins?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "path": "https:\/\/cli.lazu.io\/api\/v1\/plugins",
+        "per_page": 15,
+        "to": 5,
+        "total": 5
+    }
+}
